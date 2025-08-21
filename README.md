@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="735" height="567" alt="1000034345" src="https://github.com/user-attachments/assets/cfe62d34-8fbc-44e5-a281-63f243576165" />
+
 
 <!--
 **ElliotSYS/ElliotSYS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
